@@ -1,5 +1,5 @@
 # VR-Visual-Search
-This is a VR visual search task in a naturalistic environment.
+A VR application for a visual search task in a naturalistic environment.
 The VR headset used was the HTC Vive Pro Eye (1440 × 1600 pixels resolution per eye, framerate of 90 fps, nominal field of view of 110◦). The built-in eye tracker was used to record participant’s gaze at 90 Hz with an accuracy of 1◦ visual angle. All scenes were created using Unity 3D. The computer used to render the virtual environment had an Intel Xeon W-2225 processor at 4.10 GHz and 32 GB of RAM. The graphics card was an NVIDIA Quadro RTX 4000 (8 GB of dedicated GDDR6 memory). 
 
 **Experiment Design**
